@@ -1,59 +1,70 @@
-# MickeyResumeSite
+# 🌐 MA.dev - Portfolio Website
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
+This is my personal developer portfolio built using Angular standalone components and TailwindCSS. It showcases my projects, background, and skills in a one-page, fully responsive layout.
 
-## Development server
+---
 
-To start a local development server, run:
+## 🔧 Tech Stack
 
-```bash
-ng serve
-```
+- **Angular 16+** (Standalone API)
+- **TailwindCSS** for styling
+- **TypeScript**
+- **HTML5 / CSS3**
+- **Deployed on Netlify**
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## 📄 Sections
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- **About**: Bio, profile image, skills
+- **Projects**: Angular E-Commerce App, Task Tracker App, Calorie Tracker Mobile App
+- **Resume**: Embedded PDF and download link
+- **Contact**: Email + social links
 
-```bash
-ng generate component component-name
-```
+---
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 💼 Projects
 
-```bash
-ng generate --help
-```
+### 🛍️ Angular E-Commerce Front-End Clone
+A responsive shopping UI built with Angular, TailwindCSS, and standalone components. Features product listings, detail pages, cart, and checkout flow.
 
-## Building
+[Live Demo](https://your-ecommerce-link.netlify.app) · [GitHub](https://github.com/your-username/ecommerce-clone)
 
-To build the project run:
+---
 
-```bash
-ng build
-```
+### ✅ Task Tracker App
+Full-stack task manager with login, task filters, and persistent storage. Built with React frontend, Node.js backend, MongoDB.
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+[Live Demo](https://your-task-tracker.netlify.app) · [GitHub](https://github.com/your-username/task-tracker)
 
-## Running unit tests
+---
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+### 📱 Calorie Tracker (Mobile App)
+Native Android app built with Java and SQLite. Users log meals, track calories, and receive reminder notifications.
 
-```bash
-ng test
-```
+[Demo Video](https://your-youtube-link) · [GitHub](https://github.com/your-username/calorie-tracker)
 
-## Running end-to-end tests
+---
 
-For end-to-end (e2e) testing, run:
+## ✨ Features
 
-```bash
-ng e2e
-```
+- Responsive dark mode design
+- Custom logo + favicon
+- One-page smooth scroll layout
+- Hover animations and Tailwind transitions
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+---
 
-## Additional Resources
+## 📬 Contact
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Feel free to connect or reach out:
+- Email: your.email@example.com
+- GitHub: [@your-username](https://github.com/your-username)
+- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+
+---
+
+## 📝 License
+
+This project is open source and free to use under the MIT License.
+
